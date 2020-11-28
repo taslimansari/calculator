@@ -23,7 +23,7 @@ table{
 }
 
 input{
-    font-size: 25px;
+    font-size: 31px;
     margin-top: 20px;
     margin-bottom: 25px;
     border: 2px solid black;
@@ -32,9 +32,9 @@ input{
 }
 
 button{
-    font-size: 20px;
+    font-size: 25px;
     background-color: #007bff;
-    width: 77px;
-    height: 55px;
+    width: 91px;
+    height: 60px;
     border-radius: 10px;
 }
